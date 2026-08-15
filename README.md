@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%">
+![H4YDAR Spider Web Banner](./header.svg)
 
 <br><br>
 
